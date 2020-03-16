@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCamila", "ProyectoCamila\ProyectoCamila.csproj", "{C6761F21-5F8D-4364-A8AD-DEBC3F692B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6761F21-5F8D-4364-A8AD-DEBC3F692B8C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C6761F21-5F8D-4364-A8AD-DEBC3F692B8C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C6761F21-5F8D-4364-A8AD-DEBC3F692B8C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C6761F21-5F8D-4364-A8AD-DEBC3F692B8C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
